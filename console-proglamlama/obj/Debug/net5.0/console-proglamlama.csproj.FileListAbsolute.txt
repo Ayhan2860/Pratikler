@@ -1,0 +1,16 @@
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.exe
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.deps.json
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.runtimeconfig.json
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.runtimeconfig.dev.json
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.dll
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\ref\console-proglamlama.dll
+D:\Pratikler\Pratikler\console-proglamlama\bin\Debug\net5.0\console-proglamlama.pdb
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.csproj.AssemblyReference.cache
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.AssemblyInfoInputs.cache
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.AssemblyInfo.cs
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.csproj.CoreCompileInputs.cache
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.dll
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\ref\console-proglamlama.dll
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.pdb
+D:\Pratikler\Pratikler\console-proglamlama\obj\Debug\net5.0\console-proglamlama.genruntimeconfig.cache
