@@ -1,0 +1,16 @@
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+D:\Pratikler\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.AssemblyReference.cache
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+D:\Pratikler\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
