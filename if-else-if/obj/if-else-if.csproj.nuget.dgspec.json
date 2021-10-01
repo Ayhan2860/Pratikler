@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pratikler\\Pratikler\\if-else-if\\if-else-if.csproj": {}
+    "D:\\Patika.Dev_\\Pratikler\\if-else-if\\if-else-if.csproj": {}
   },
   "projects": {
-    "D:\\Pratikler\\Pratikler\\if-else-if\\if-else-if.csproj": {
+    "D:\\Patika.Dev_\\Pratikler\\if-else-if\\if-else-if.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pratikler\\Pratikler\\if-else-if\\if-else-if.csproj",
+        "projectUniqueName": "D:\\Patika.Dev_\\Pratikler\\if-else-if\\if-else-if.csproj",
         "projectName": "if-else-if",
-        "projectPath": "D:\\Pratikler\\Pratikler\\if-else-if\\if-else-if.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Pratikler\\Pratikler\\if-else-if\\obj\\",
+        "projectPath": "D:\\Patika.Dev_\\Pratikler\\if-else-if\\if-else-if.csproj",
+        "packagesPath": "C:\\Users\\Predator\\.nuget\\packages\\",
+        "outputPath": "D:\\Patika.Dev_\\Pratikler\\if-else-if\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Predator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
