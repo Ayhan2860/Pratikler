@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.exe
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.deps.json
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.dll
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\ref\metot_overloading_.dll
+D:\Patika.Dev_\Pratikler\metot_overloading_\bin\Debug\net5.0\metot_overloading_.pdb
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.dll
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\ref\metot_overloading_.dll
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.pdb
+D:\Patika.Dev_\Pratikler\metot_overloading_\obj\Debug\net5.0\metot_overloading_.genruntimeconfig.cache
