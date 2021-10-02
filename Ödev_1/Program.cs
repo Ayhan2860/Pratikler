@@ -7,7 +7,7 @@ namespace Ödev_1
     {
         static void Main(string[] args)
         {
-            
+            /*
             // 1. İster
             Console.WriteLine("***Ödev_1 / 1. İsterler***");
             Console.Write("Lütfen bir sayı giriniz : ");
@@ -49,7 +49,7 @@ namespace Ödev_1
             for (int i = words.Length-1; i >=0; i--)
             {
                 Console.WriteLine($"{i+1}. kelime : " + words[i]);
-            }
+            }*/
 
             // 4. İster
             
@@ -61,7 +61,7 @@ namespace Ödev_1
             {
                 sentence = sentence.Replace(c, "");
             }
-
+             Console.WriteLine(sentence);
             var result = sentence.Split(" ");
              Console.WriteLine("Cümle içinde toplam kelime sayısı : " +result.Length);
             var res = string.Join("",result);
