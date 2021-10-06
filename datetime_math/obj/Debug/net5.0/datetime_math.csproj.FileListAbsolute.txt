@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.exe
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.deps.json
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.dll
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\ref\datetime_math.dll
+D:\Patika.Dev_\Pratikler\datetime_math\bin\Debug\net5.0\datetime_math.pdb
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.dll
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\ref\datetime_math.dll
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.pdb
+D:\Patika.Dev_\Pratikler\datetime_math\obj\Debug\net5.0\datetime_math.genruntimeconfig.cache
