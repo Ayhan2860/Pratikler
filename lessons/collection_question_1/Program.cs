@@ -44,7 +44,7 @@ namespace collection_question_1
               }
             }
             }  
-           
+           if(wandList.Count >0 || notWandList.Count > 0){
            
            Console.WriteLine("\n******* Asal Sayılar *******");
            wandList.Sort();
@@ -90,7 +90,7 @@ namespace collection_question_1
            
 
 
-
+        }
         }
     }
 }
