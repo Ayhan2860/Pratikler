@@ -6,6 +6,13 @@ namespace datetime_math
     {
         static void Main(string[] args)
         {
+  
+
+
+
+
+
+
             Console.WriteLine(DateTime.Now);
             Console.WriteLine(DateTime.Now.Date);
             Console.WriteLine(DateTime.Now.Day);
@@ -24,7 +31,7 @@ namespace datetime_math
             Console.WriteLine(DateTime.Now.ToShortDateString());
             Console.WriteLine(DateTime.Now.ToLongTimeString());
             Console.WriteLine(DateTime.Now.ToShortTimeString());
-
+            
 
             Console.WriteLine(DateTime.Now.AddDays(2));
             Console.WriteLine(DateTime.Now.AddHours(3));
@@ -64,6 +71,9 @@ namespace datetime_math
             Console.WriteLine(Math.Log(9)); // 9 un e tabanında ki logoritmik karşılığını getirir
             Console.WriteLine(Math.Exp(3)); // e üzeri 3 ü getirir
             Console.WriteLine(Math.Log10(10)); // 10 sayısının logaritma 10 tabanında ki karşılığı
+
+
+            
 
 
         }
