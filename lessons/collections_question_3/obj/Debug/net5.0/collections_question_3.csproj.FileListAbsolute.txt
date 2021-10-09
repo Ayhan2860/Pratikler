@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.exe
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.deps.json
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.dll
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\ref\collections_question_3.dll
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\bin\Debug\net5.0\collections_question_3.pdb
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.dll
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\ref\collections_question_3.dll
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.pdb
+D:\Patika.Dev_\Pratikler\lessons\collections_question_3\obj\Debug\net5.0\collections_question_3.genruntimeconfig.cache
