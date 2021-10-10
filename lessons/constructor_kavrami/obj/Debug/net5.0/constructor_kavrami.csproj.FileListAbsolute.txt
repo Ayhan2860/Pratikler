@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.exe
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.deps.json
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\ref\constructor_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\bin\Debug\net5.0\constructor_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\ref\constructor_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\constructor_kavrami\obj\Debug\net5.0\constructor_kavrami.genruntimeconfig.cache
