@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.exe
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.deps.json
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\ref\sinif_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\bin\Debug\net5.0\sinif_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\ref\sinif_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\sinif_kavrami\obj\Debug\net5.0\sinif_kavrami.genruntimeconfig.cache
