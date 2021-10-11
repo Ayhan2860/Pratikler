@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.exe
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.deps.json
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.dll
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\ref\TelephoneDirectory.dll
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.pdb
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.dll
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\ref\TelephoneDirectory.dll
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.pdb
+D:\Patika.Dev_\Pratikler\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.genruntimeconfig.cache
