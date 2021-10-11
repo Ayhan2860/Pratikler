@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.exe
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.deps.json
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\ref\enum_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\bin\Debug\net5.0\enum_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\ref\enum_kavrami.dll
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.pdb
+D:\Patika.Dev_\Pratikler\lessons\enum_kavrami\obj\Debug\net5.0\enum_kavrami.genruntimeconfig.cache
