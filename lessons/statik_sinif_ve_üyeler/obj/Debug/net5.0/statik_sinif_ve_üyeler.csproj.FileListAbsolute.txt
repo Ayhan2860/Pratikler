@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.exe
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.deps.json
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.dll
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\ref\statik_sinif_ve_üyeler.dll
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\bin\Debug\net5.0\statik_sinif_ve_üyeler.pdb
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.dll
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\ref\statik_sinif_ve_üyeler.dll
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.pdb
+D:\Patika.Dev_\Pratikler\lessons\statik_sinif_ve_üyeler\obj\Debug\net5.0\statik_sinif_ve_üyeler.genruntimeconfig.cache
