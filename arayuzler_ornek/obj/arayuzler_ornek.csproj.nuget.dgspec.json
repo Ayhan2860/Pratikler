@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Patika.Dev_\\Pratikler\\TelephoneDirectory\\TelephoneDirectory.csproj": {}
+    "D:\\Patika.Dev_\\Pratikler\\arayuzler_ornek\\arayuzler_ornek.csproj": {}
   },
   "projects": {
-    "D:\\Patika.Dev_\\Pratikler\\TelephoneDirectory\\TelephoneDirectory.csproj": {
+    "D:\\Patika.Dev_\\Pratikler\\arayuzler_ornek\\arayuzler_ornek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Patika.Dev_\\Pratikler\\TelephoneDirectory\\TelephoneDirectory.csproj",
-        "projectName": "TelephoneDirectory",
-        "projectPath": "D:\\Patika.Dev_\\Pratikler\\TelephoneDirectory\\TelephoneDirectory.csproj",
+        "projectUniqueName": "D:\\Patika.Dev_\\Pratikler\\arayuzler_ornek\\arayuzler_ornek.csproj",
+        "projectName": "arayuzler_ornek",
+        "projectPath": "D:\\Patika.Dev_\\Pratikler\\arayuzler_ornek\\arayuzler_ornek.csproj",
         "packagesPath": "C:\\Users\\Predator\\.nuget\\packages\\",
-        "outputPath": "D:\\Patika.Dev_\\Pratikler\\TelephoneDirectory\\obj\\",
+        "outputPath": "D:\\Patika.Dev_\\Pratikler\\arayuzler_ornek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Predator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

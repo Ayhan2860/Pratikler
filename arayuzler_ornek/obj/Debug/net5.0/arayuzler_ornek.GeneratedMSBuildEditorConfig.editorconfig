@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = TelephoneDirectory
-build_property.ProjectDir = D:\Patika.Dev_\Pratikler\TelephoneDirectory\
+build_property.RootNamespace = arayuzler_ornek
+build_property.ProjectDir = d:\Patika.Dev_\Pratikler\arayuzler_ornek\

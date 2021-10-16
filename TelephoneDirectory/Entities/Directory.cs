@@ -1,6 +1,7 @@
-namespace TelephoneDirectory
+using System;
+namespace Entities
 {
-    public  class Directory
+    public class Directory
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
