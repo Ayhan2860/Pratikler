@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.exe
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.deps.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\ref\AvaregeCalculation.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\bin\Debug\net5.0\AvaregeCalculation.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\ref\AvaregeCalculation.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\AvaregeCalculation\obj\Debug\net5.0\AvaregeCalculation.genruntimeconfig.cache
