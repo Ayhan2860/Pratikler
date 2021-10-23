@@ -2,11 +2,11 @@ using System;
 
 namespace AvaregeCalculation
 {
-   public  class FibonacciAverage
+   public static class FibonacciAverage
     {
-       private FibonacciLoop loop = new FibonacciLoop();
-       private double average;
-       public double FiboAverage(int n)
+       private static FibonacciLoop loop = new FibonacciLoop();
+       private static double average;
+       public static double FiboAverage(int n)
        {
          
            var totalFibonacci = loop.TotalFibonacci(n);

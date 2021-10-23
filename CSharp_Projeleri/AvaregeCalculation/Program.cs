@@ -7,10 +7,10 @@ namespace AvaregeCalculation
         static void Main(string[] args)
         {
            
-            FibonacciAverage averageResult = new FibonacciAverage();
+             
             Console.Write ("Lütfen Bir Değer Giriniz : ");
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.Write($"\nFibonaççi Sayılarının Toplamının Ortalaması :  {averageResult.FiboAverage(number)}");
+            Console.Write($"\nFibonaççi Sayılarının Toplamının Ortalaması :  {FibonacciAverage.FiboAverage(number)}");
             
          
             
