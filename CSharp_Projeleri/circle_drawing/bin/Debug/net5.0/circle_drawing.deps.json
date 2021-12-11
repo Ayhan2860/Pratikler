@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "circle_drawing/1.0.0": {
+        "runtime": {
+          "circle_drawing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "circle_drawing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

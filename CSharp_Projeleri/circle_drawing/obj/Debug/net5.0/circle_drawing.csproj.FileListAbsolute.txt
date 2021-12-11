@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.exe
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.deps.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\ref\circle_drawing.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\bin\Debug\net5.0\circle_drawing.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\ref\circle_drawing.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\circle_drawing\obj\Debug\net5.0\circle_drawing.genruntimeconfig.cache
