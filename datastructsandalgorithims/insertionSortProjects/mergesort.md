@@ -8,5 +8,5 @@
 
 - - -
 
-# Big-O gösterimini.
+# Big-O gösterimi;
 + Big-O gösterimini = O(nlog(n))
