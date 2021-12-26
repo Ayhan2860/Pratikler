@@ -11,10 +11,10 @@
 
 Big-O = O(n^2);
 
-    + Time Complexity: 
-+ Average case: Aradığımız sayının ortada olması,
-+ Worst case: Aradığımız sayının sonda olması, 
-+ Best case: Aradığımız sayının dizinin en başında olması. 
++ Time Complexity: 
+    + Average case: Aradığımız sayının ortada olması,
+    + Worst case: Aradığımız sayının sonda olması, 
+    + Best case: Aradığımız sayının dizinin en başında olması. 
 
 ## Yukarıda ki bilgilerin durumuna göre; 
 + Dizi sıralandıktan sonra 18 sayısının case kapsamı = Average case;
