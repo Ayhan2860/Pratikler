@@ -9,15 +9,18 @@
 | [2,16,18,22,27,6] |
 | [2,6,16,18,22,27] |
 
-Big-O = O(n^2);
+- - -
+
++ Big-O Ananlizi  
+    + Big-O = O(n^2);
 
 + Time Complexity: 
     + Average case: Aradığımız sayının ortada olması,
     + Worst case: Aradığımız sayının sonda olması, 
     + Best case: Aradığımız sayının dizinin en başında olması. 
 
-## Yukarıda ki bilgilerin durumuna göre; 
-+ Dizi sıralandıktan sonra 18 sayısının case kapsamı = Average case;
++ Yukarıda ki bilgilerin durumuna göre; 
+    + Dizi sıralandıktan sonra 18 sayısının case kapsamı = Average case;
 
 - - - 
 
