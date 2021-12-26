@@ -1,3 +1,5 @@
+## Insertion Sort 1. Dize
+
 | [22,27,16,2,18,6] -> Insertion Sort türüne göre aşamaları |
 | ------------------------------------------------------------------|
 | [22,27,16,2,18,6] |
@@ -16,6 +18,10 @@ Big-O = O(n^2);
 
 ## Yukarıda ki bilgilerin durumuna göre; 
 + Dizi sıralandıktan sonra 18 sayısının case kapsamı = Average case;
+
+- - - 
+
+## Insertion Sort 2. Dize
 
 | [7,3,5,8,2,9,4,15,6]  dizisinin Insertion Sort'a göre ilk 4 adımı |
 | ------------------------------------------------------------------|
