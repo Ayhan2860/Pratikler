@@ -9,4 +9,4 @@
 - - -
 
 # Big-O gösterimini.
-+ Big-O gösterimini {\displaystyle {\mathcal {O}}(n~\log(n))}.
++ Big-O gösterimini = O(nlog(n))
