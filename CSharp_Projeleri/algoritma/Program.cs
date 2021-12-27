@@ -12,7 +12,7 @@ namespace algoritma
              var n = inputValue.Split(',');
              for (int i = 0; i < n.Length; i++)
              {
-                 if(IsNumber(n[i]))
+                 if(!IsNumber(n[i]))
                  {
                      Console.WriteLine(n[i]);
                  }
