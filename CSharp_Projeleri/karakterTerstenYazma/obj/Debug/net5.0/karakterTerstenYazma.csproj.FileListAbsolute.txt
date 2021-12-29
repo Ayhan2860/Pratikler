@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.exe
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.deps.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\ref\karakterTerstenYazma.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\bin\Debug\net5.0\karakterTerstenYazma.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\ref\karakterTerstenYazma.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\karakterTerstenYazma\obj\Debug\net5.0\karakterTerstenYazma.genruntimeconfig.cache
