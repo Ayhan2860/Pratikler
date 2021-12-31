@@ -8,7 +8,7 @@ namespace karakterTerstenYazma
         {
             Console.Write("İfade giriniz :");
             var expression = Console.ReadLine();
-          Console.WriteLine(ReverseString(expression));
+           Console.WriteLine(ReverseString(expression));
 
         }
 
