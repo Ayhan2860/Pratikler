@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = alanHesaplama
-build_property.ProjectDir = d:\Patika.Dev_\Pratikler\CSharp_Projeleri\alanHesaplama\
+build_property.RootNamespace = integer_ikililerin_toplamı
+build_property.ProjectDir = D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\

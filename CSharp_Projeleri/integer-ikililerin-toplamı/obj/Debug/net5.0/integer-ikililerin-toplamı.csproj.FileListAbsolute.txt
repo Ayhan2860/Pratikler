@@ -1,0 +1,16 @@
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.exe
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.deps.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.runtimeconfig.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.runtimeconfig.dev.json
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\ref\integer-ikililerin-toplamı.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\bin\Debug\net5.0\integer-ikililerin-toplamı.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.csproj.AssemblyReference.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.AssemblyInfoInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.AssemblyInfo.cs
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.csproj.CoreCompileInputs.cache
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\ref\integer-ikililerin-toplamı.dll
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.pdb
+D:\Patika.Dev_\Pratikler\CSharp_Projeleri\integer-ikililerin-toplamı\obj\Debug\net5.0\integer-ikililerin-toplamı.genruntimeconfig.cache
