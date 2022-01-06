@@ -57,3 +57,8 @@
  - - - 
  
  ![onlinefilm](https://user-images.githubusercontent.com/68536015/147460370-54c585ca-c295-4e22-99ed-8322fa73a99f.png)
+ 
+ - - -
+ ## Asansor Simülasyonu
+ - - -
+ ![Asansor](https://user-images.githubusercontent.com/68536015/148432961-239a9fca-69b0-45e3-bc9b-21e52132ae11.png)
