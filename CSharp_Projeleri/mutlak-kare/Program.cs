@@ -19,12 +19,7 @@ namespace mutlak_kare
             Console.ReadLine();
         }
 
-        /*
-        Projede kullanıcı tarafında girilen bir sayı dizisinin 67'den küçük yada büyük olduğuna baktıktan sonra; 
-        Küçük olanların farklarının toplamını 
-        büyük ise de farkların mutlak karelerini alarak toplayıp ekrana yazdırdığımız bir Console uygulamamızdır.
-        */
-
+      
        
     }
 }
