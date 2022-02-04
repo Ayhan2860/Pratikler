@@ -7,8 +7,8 @@ namespace SessizHarf
     {
         static void Main(string[] args)
         {
-           // Console.Write("İfade giriniz : ");
-            string expiression = "umut";
+            Console.Write("İfade giriniz : ");
+            string expiression = Console.ReadLine();
              int m = 0;
             int r = 0;
             Regex rgx = new Regex("[aeıioöuüAEIİUÜOÖ]");
