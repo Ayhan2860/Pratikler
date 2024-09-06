@@ -1,0 +1,15 @@
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/bin/Debug/net8.0/VariablesAndDataTypes
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/bin/Debug/net8.0/VariablesAndDataTypes.deps.json
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/bin/Debug/net8.0/VariablesAndDataTypes.runtimeconfig.json
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/bin/Debug/net8.0/VariablesAndDataTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/bin/Debug/net8.0/VariablesAndDataTypes.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.AssemblyInfoInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.AssemblyInfo.cs
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.sourcelink.json
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/refint/VariablesAndDataTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/VariablesAndDataTypes.genruntimeconfig.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/Debug/net8.0/ref/VariablesAndDataTypes.dll
