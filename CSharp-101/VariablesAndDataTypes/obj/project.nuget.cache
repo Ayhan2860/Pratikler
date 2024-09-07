@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YD4+ggAduA=",
+  "dgSpecHash": "OyKe1r0X8pKHoHbKoO96uAN3IAhzifU5yOPuAt5TeXdIbnHWmTmQjDAqlZSkot6V03wqUOizK2t0RvPV3Uj0aQ==",
   "success": true,
-  "projectFilePath": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+  "projectFilePath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
