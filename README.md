@@ -32,6 +32,13 @@
 
 *  [Recursive and Extension Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ExtensionAndRecursiveMethods "Got to project") 
 
+*  [String Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/StringMethods "Got to project") 
+
+*  [Datetime And Math Classes](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/DateTimeAndMath "Got to project") 
+
+
+*  [Generic Collections and List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/GenericCollectionsAndList "Got to project") 
+
 
 
 
