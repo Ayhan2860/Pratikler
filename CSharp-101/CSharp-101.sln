@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDeclaration", "ArrayDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethods", "ArrayClassMethods\ArrayClassMethods.csproj", "{0F9A22C1-E7D1-4779-86CC-19A67C815163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDeclaration", "MethodDeclaration\MethodDeclaration.csproj", "{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{7C559482-CB64-49F4-9AB8-2AA97025F723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAndRecursiveMethods", "ExtensionAndRecursiveMethods\ExtensionAndRecursiveMethods.csproj", "{15AE5B2F-F293-4B21-AA05-499781BC757D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{C7266F78-433B-40A5-A11D-D33D47D9C3E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestions-1", "Homework\AlgorithmQuestions-1\AlgorithmQuestions-1.csproj", "{2672FA63-77E6-43A8-BA37-0768877FCFE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +82,24 @@ Global
 		{0F9A22C1-E7D1-4779-86CC-19A67C815163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9A22C1-E7D1-4779-86CC-19A67C815163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9A22C1-E7D1-4779-86CC-19A67C815163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C559482-CB64-49F4-9AB8-2AA97025F723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C559482-CB64-49F4-9AB8-2AA97025F723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C559482-CB64-49F4-9AB8-2AA97025F723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C559482-CB64-49F4-9AB8-2AA97025F723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AE5B2F-F293-4B21-AA05-499781BC757D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AE5B2F-F293-4B21-AA05-499781BC757D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AE5B2F-F293-4B21-AA05-499781BC757D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AE5B2F-F293-4B21-AA05-499781BC757D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2672FA63-77E6-43A8-BA37-0768877FCFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2672FA63-77E6-43A8-BA37-0768877FCFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2672FA63-77E6-43A8-BA37-0768877FCFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2672FA63-77E6-43A8-BA37-0768877FCFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2672FA63-77E6-43A8-BA37-0768877FCFE2} = {C7266F78-433B-40A5-A11D-D33D47D9C3E0}
 	EndGlobalSection
 EndGlobal
