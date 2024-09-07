@@ -40,6 +40,9 @@
 *  [Generic Collections and List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/GenericCollectionsAndList "Got to project") 
 
 
+*  [Array List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ArrayList "Got to project") 
+
+
 
 
 </details>

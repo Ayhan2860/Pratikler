@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj": {}
+    "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj": {}
   },
   "projects": {
-    "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj": {
+    "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+        "projectUniqueName": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
         "projectName": "VariablesAndDataTypes",
-        "projectPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
-        "packagesPath": "/Users/ayhankaraman/.nuget/packages/",
-        "outputPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/",
+        "projectPath": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ayhankaraman/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
