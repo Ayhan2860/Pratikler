@@ -5,6 +5,16 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDataTypes", "VariablesAndDataTypes\VariablesAndDataTypes.csproj", "{E650834F-4EB0-47C8-B2C4-3D7A26214E83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{F1869720-AB12-4D7F-9891-F491B2FB997E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{36FD7B79-22BA-4119-88EC-7D010BEFF932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinallyAndLogicalFallacies", "TryCatchFinallyAndLogicalFallacies\TryCatchFinallyAndLogicalFallacies.csproj", "{A8FE3B08-7E75-4B9B-8784-19703F65EABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseStructureAndTernaryIf", "IfElseStructureAndTernaryIf\IfElseStructureAndTernaryIf.csproj", "{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{B0787126-271A-42F1-8E6B-50A4D41EB38E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +28,25 @@ Global
 		{E650834F-4EB0-47C8-B2C4-3D7A26214E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E650834F-4EB0-47C8-B2C4-3D7A26214E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E650834F-4EB0-47C8-B2C4-3D7A26214E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1869720-AB12-4D7F-9891-F491B2FB997E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1869720-AB12-4D7F-9891-F491B2FB997E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1869720-AB12-4D7F-9891-F491B2FB997E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1869720-AB12-4D7F-9891-F491B2FB997E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FD7B79-22BA-4119-88EC-7D010BEFF932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FD7B79-22BA-4119-88EC-7D010BEFF932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FD7B79-22BA-4119-88EC-7D010BEFF932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FD7B79-22BA-4119-88EC-7D010BEFF932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FE3B08-7E75-4B9B-8784-19703F65EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FE3B08-7E75-4B9B-8784-19703F65EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FE3B08-7E75-4B9B-8784-19703F65EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FE3B08-7E75-4B9B-8784-19703F65EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0787126-271A-42F1-8E6B-50A4D41EB38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0787126-271A-42F1-8E6B-50A4D41EB38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0787126-271A-42F1-8E6B-50A4D41EB38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0787126-271A-42F1-8E6B-50A4D41EB38E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
