@@ -3,12 +3,10 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# custom folders and files
-
-Folder
-
 # dotenv files
 .env
+
+Folder
 
 # User-specific files
 *.rsuser

@@ -52,6 +52,8 @@
 
 * CSharp-101 
     *  [Homework 1 - Algotrihm Questions](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Homework/AlgorithmQuestions-1 "Got to homework")  
+    
+    *  [Homework 2 - Collections Questions](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Homework/Collections "Got to homework")  
 
 ---
 

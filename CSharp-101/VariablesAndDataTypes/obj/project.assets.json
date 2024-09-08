@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/Users/ayhankaraman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+      "projectUniqueName": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
       "projectName": "VariablesAndDataTypes",
-      "projectPath": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/",
+      "projectPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+      "packagesPath": "/Users/ayhankaraman/.nuget/packages/",
+      "outputPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/Beginner-Level-.Net-Core-Path/CSharp-101/VariablesAndDataTypes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/Users/ayhankaraman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
