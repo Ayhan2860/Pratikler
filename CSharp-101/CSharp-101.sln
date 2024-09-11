@@ -19,27 +19,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopAndBreakContinue", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileAndForEach", "Loops\WhileAndForEach\WhileAndForEach.csproj", "{299EF7F1-289B-4808-8DBB-A85D31DA33A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDeclaration", "Arrays/ArrayDeclaration\ArrayDeclaration.csproj", "{22D984F6-BCD2-48B6-B834-623E5E3AF88D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDeclaration", "Arrays\ArrayDeclaration\ArrayDeclaration.csproj", "{22D984F6-BCD2-48B6-B834-623E5E3AF88D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethods", "Arrays/ArrayClassMethods\ArrayClassMethods.csproj", "{0F9A22C1-E7D1-4779-86CC-19A67C815163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethods", "Arrays\ArrayClassMethods\ArrayClassMethods.csproj", "{0F9A22C1-E7D1-4779-86CC-19A67C815163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDeclaration", "Methods/MethodDeclaration\MethodDeclaration.csproj", "{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDeclaration", "Methods\MethodDeclaration\MethodDeclaration.csproj", "{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "Methods/MethodOverloading\MethodOverloading.csproj", "{7C559482-CB64-49F4-9AB8-2AA97025F723}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "Methods\MethodOverloading\MethodOverloading.csproj", "{7C559482-CB64-49F4-9AB8-2AA97025F723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAndRecursiveMethods", "Methods/ExtensionAndRecursiveMethods\ExtensionAndRecursiveMethods.csproj", "{15AE5B2F-F293-4B21-AA05-499781BC757D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAndRecursiveMethods", "Methods\ExtensionAndRecursiveMethods\ExtensionAndRecursiveMethods.csproj", "{15AE5B2F-F293-4B21-AA05-499781BC757D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{C7266F78-433B-40A5-A11D-D33D47D9C3E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestions-1", "Homework\AlgorithmQuestions-1\AlgorithmQuestions-1.csproj", "{2672FA63-77E6-43A8-BA37-0768877FCFE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "ReadyMethods/StringMethods\StringMethods.csproj", "{881DA8C7-745F-427D-AA3C-DD976284388F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "ReadyMethods\StringMethods\StringMethods.csproj", "{881DA8C7-745F-427D-AA3C-DD976284388F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "ReadyMethods/DateTimeAndMath\DateTimeAndMath.csproj", "{9E9424A7-ADAD-42CD-81A6-C1487F9FFF04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "ReadyMethods\DateTimeAndMath\DateTimeAndMath.csproj", "{9E9424A7-ADAD-42CD-81A6-C1487F9FFF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionsAndList", "Collections/GenericCollectionsAndList\GenericCollectionsAndList.csproj", "{307D2DDE-3BB2-49B5-98D6-E6264584B4A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionsAndList", "Collections\GenericCollectionsAndList\GenericCollectionsAndList.csproj", "{307D2DDE-3BB2-49B5-98D6-E6264584B4A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "Collections/ArrayList\ArrayList.csproj", "{73EFAF50-576B-4E95-AAB8-34A123C2CEBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "Collections\ArrayList\ArrayList.csproj", "{73EFAF50-576B-4E95-AAB8-34A123C2CEBD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collections", "Collections", "{EE75BB3B-0828-4FF8-BD7F-1930CD36BE12}"
 EndProject
@@ -48,6 +48,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question-2", "Homework\Collections\Question-2\Question-2.csproj", "{619F179F-449E-4048-BF86-D64BD0DA30A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question-3", "Homework\Collections\Question-3\Question-3.csproj", "{8CA9A76C-22C4-4EA7-9AF5-656260D40540}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassConcept", "ClassConcept", "{28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDeclaration", "ClassConcept\ClassDeclaration\ClassDeclaration.csproj", "{BD84608D-F68F-4357-9C0B-1FC95E1131CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorMethods", "ClassConcept\ConstructorMethods\ConstructorMethods.csproj", "{147434B9-FD7A-478F-87D0-A3D7321BA688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationAndProperty", "ClassConcept\EncapsulationAndProperty\EncapsulationAndProperty.csproj", "{C726FB39-272A-4DBE-9881-3AA3226557D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassAndMembers", "ClassConcept\StaticClassAndMembers\StaticClassAndMembers.csproj", "{EE69E251-56A1-4F36-9057-9C4DC27148EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructDeclaration", "ClassConcept\StructDeclaration\StructDeclaration.csproj", "{5B45C517-C20F-49BE-B44E-F5D71816D374}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -142,6 +154,26 @@ Global
 		{8CA9A76C-22C4-4EA7-9AF5-656260D40540}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA9A76C-22C4-4EA7-9AF5-656260D40540}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA9A76C-22C4-4EA7-9AF5-656260D40540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD84608D-F68F-4357-9C0B-1FC95E1131CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD84608D-F68F-4357-9C0B-1FC95E1131CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD84608D-F68F-4357-9C0B-1FC95E1131CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD84608D-F68F-4357-9C0B-1FC95E1131CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147434B9-FD7A-478F-87D0-A3D7321BA688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147434B9-FD7A-478F-87D0-A3D7321BA688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147434B9-FD7A-478F-87D0-A3D7321BA688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147434B9-FD7A-478F-87D0-A3D7321BA688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C726FB39-272A-4DBE-9881-3AA3226557D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C726FB39-272A-4DBE-9881-3AA3226557D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C726FB39-272A-4DBE-9881-3AA3226557D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C726FB39-272A-4DBE-9881-3AA3226557D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE69E251-56A1-4F36-9057-9C4DC27148EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE69E251-56A1-4F36-9057-9C4DC27148EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE69E251-56A1-4F36-9057-9C4DC27148EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE69E251-56A1-4F36-9057-9C4DC27148EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B45C517-C20F-49BE-B44E-F5D71816D374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B45C517-C20F-49BE-B44E-F5D71816D374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B45C517-C20F-49BE-B44E-F5D71816D374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B45C517-C20F-49BE-B44E-F5D71816D374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2672FA63-77E6-43A8-BA37-0768877FCFE2} = {C7266F78-433B-40A5-A11D-D33D47D9C3E0}
@@ -149,5 +181,10 @@ Global
 		{99EDC200-F1A0-4FA7-BC05-D126BFDB8304} = {EE75BB3B-0828-4FF8-BD7F-1930CD36BE12}
 		{619F179F-449E-4048-BF86-D64BD0DA30A3} = {EE75BB3B-0828-4FF8-BD7F-1930CD36BE12}
 		{8CA9A76C-22C4-4EA7-9AF5-656260D40540} = {EE75BB3B-0828-4FF8-BD7F-1930CD36BE12}
+		{BD84608D-F68F-4357-9C0B-1FC95E1131CA} = {28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}
+		{147434B9-FD7A-478F-87D0-A3D7321BA688} = {28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}
+		{C726FB39-272A-4DBE-9881-3AA3226557D2} = {28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}
+		{EE69E251-56A1-4F36-9057-9C4DC27148EA} = {28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}
+		{5B45C517-C20F-49BE-B44E-F5D71816D374} = {28E6DA17-ED84-402F-B7BB-31F1E2EBC94F}
 	EndGlobalSection
 EndGlobal

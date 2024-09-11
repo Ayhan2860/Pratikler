@@ -52,8 +52,16 @@
 
     *  [Array List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Collections/ArrayList "Got to project") 
 
+* Class Concept
+    *  [Class Declaration(Instance, Field, Property)](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/ClassDeclaration "Got to project") 
 
+    *  [Constructor Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/ConstructorMethods "Got to project") 
 
+    *  [Encapsulation And Property Concept](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/EncapsulationAndProperty "Got to project") 
+
+    *  [Static Class And Members](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/StaticClassAndMembers "Got to project") 
+
+    *  [Struct Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/StructDeclaration "Got to project") 
 
 </details>
 
