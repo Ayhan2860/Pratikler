@@ -63,6 +63,8 @@
 
     *  [Struct Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/StructDeclaration "Got to project") 
 
+    * [Enum Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/EnumDeclaration)
+
 </details>
 
 <details> 
