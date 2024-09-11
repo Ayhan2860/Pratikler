@@ -10,37 +10,47 @@
 <summary>CSharp-101 Lessons</summary>
     
 *  [Variables and data types](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/TypeConversions "Got to project") 
+
 *  [Operators](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Operators "Got to project")  
 
 *  [Type Conversions](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/TypeConversions "Got to project") 
 
 *  [Try Catch Finally and Logical Fallacies](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/TryCatchFinallyAndLogicalFallacies "Got to project") 
 
-*  [If-ElseIf-Ternary-If](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/IfElseStructureAndTernaryIf "Got to project") 
+* Decision Structures
+    *  [If-ElseIf-Ternary-If](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/DecisionStructures/IfElseStructureAndTernaryIf "Got to project") 
 
-*  [Switch Case](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/SwitchCase "Got to project") 
+    *  [Switch Case](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/DecisionStructures/SwitchCase "Got to project") 
 
-*  [For Loop and Break Continue Statements](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ForLoopAndBreakContinue "Got to project") 
+* Loops
+    *  [For Loop and Break Continue Statements](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Loops/ForLoopAndBreakContinue "Got to project") 
 
-*  [While Foreach](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/WhileAndForEach "Got to project")
+    *  [While Foreach](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Loops/WhileAndForEach "Got to project")
 
-*  [Array Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ArrayDeclaration "Got to project") 
+* Arrays
 
-*  [Array Class Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ArrayClassMethods "Got to project") 
+    *  [Array Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Arrays/ArrayDeclaration "Got to project") 
 
-*  [Method Overloading](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/MethodOverloading "Got to project") 
+    *  [Array Class Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Arrays/ArrayClassMethods "Got to project") 
 
-*  [Recursive and Extension Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ExtensionAndRecursiveMethods "Got to project") 
+* Methods
 
-*  [String Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/StringMethods "Got to project") 
+    *  [Method Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Methods/MethodDeclaration "Got to project") 
 
-*  [Datetime And Math Classes](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/DateTimeAndMath "Got to project") 
+    *  [Method Overloading](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Methods/MethodOverloading "Got to project") 
 
+    *  [Recursive and Extension Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Methods/ExtensionAndRecursiveMethods "Got to project") 
 
-*  [Generic Collections and List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/GenericCollectionsAndList "Got to project") 
+* Ready Methods
 
+    *  [String Methods](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ReadyMethods/StringMethods "Got to project") 
 
-*  [Array List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ArrayList "Got to project") 
+    *  [Datetime And Math Classes](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ReadyMethods/DateTimeAndMath "Got to project") 
+
+* Collections
+    *  [Generic Collections and List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Collections/GenericCollectionsAndList "Got to project") 
+
+    *  [Array List](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Collections/ArrayList "Got to project") 
 
 
 
