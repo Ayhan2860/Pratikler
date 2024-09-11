@@ -11,35 +11,35 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinallyAndLogicalFallacies", "TryCatchFinallyAndLogicalFallacies\TryCatchFinallyAndLogicalFallacies.csproj", "{A8FE3B08-7E75-4B9B-8784-19703F65EABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseStructureAndTernaryIf", "IfElseStructureAndTernaryIf\IfElseStructureAndTernaryIf.csproj", "{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseStructureAndTernaryIf", "DecisionStructures\IfElseStructureAndTernaryIf\IfElseStructureAndTernaryIf.csproj", "{91FC082F-A0DB-400A-AF3A-2EA1FDB7B242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{B0787126-271A-42F1-8E6B-50A4D41EB38E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "DecisionStructures\SwitchCase\SwitchCase.csproj", "{B0787126-271A-42F1-8E6B-50A4D41EB38E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopAndBreakContinue", "ForLoopAndBreakContinue\ForLoopAndBreakContinue.csproj", "{316367F1-7E77-453E-AFEC-7A5AD121C1CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopAndBreakContinue", "Loops\ForLoopAndBreakContinue\ForLoopAndBreakContinue.csproj", "{316367F1-7E77-453E-AFEC-7A5AD121C1CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileAndForEach", "WhileAndForEach\WhileAndForEach.csproj", "{299EF7F1-289B-4808-8DBB-A85D31DA33A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileAndForEach", "Loops\WhileAndForEach\WhileAndForEach.csproj", "{299EF7F1-289B-4808-8DBB-A85D31DA33A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDeclaration", "ArrayDeclaration\ArrayDeclaration.csproj", "{22D984F6-BCD2-48B6-B834-623E5E3AF88D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDeclaration", "Arrays/ArrayDeclaration\ArrayDeclaration.csproj", "{22D984F6-BCD2-48B6-B834-623E5E3AF88D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethods", "ArrayClassMethods\ArrayClassMethods.csproj", "{0F9A22C1-E7D1-4779-86CC-19A67C815163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayClassMethods", "Arrays/ArrayClassMethods\ArrayClassMethods.csproj", "{0F9A22C1-E7D1-4779-86CC-19A67C815163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDeclaration", "MethodDeclaration\MethodDeclaration.csproj", "{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDeclaration", "Methods/MethodDeclaration\MethodDeclaration.csproj", "{DC8DF8E2-B53E-47DC-A224-9CD9E03E2953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{7C559482-CB64-49F4-9AB8-2AA97025F723}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "Methods/MethodOverloading\MethodOverloading.csproj", "{7C559482-CB64-49F4-9AB8-2AA97025F723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAndRecursiveMethods", "ExtensionAndRecursiveMethods\ExtensionAndRecursiveMethods.csproj", "{15AE5B2F-F293-4B21-AA05-499781BC757D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAndRecursiveMethods", "Methods/ExtensionAndRecursiveMethods\ExtensionAndRecursiveMethods.csproj", "{15AE5B2F-F293-4B21-AA05-499781BC757D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{C7266F78-433B-40A5-A11D-D33D47D9C3E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmQuestions-1", "Homework\AlgorithmQuestions-1\AlgorithmQuestions-1.csproj", "{2672FA63-77E6-43A8-BA37-0768877FCFE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{881DA8C7-745F-427D-AA3C-DD976284388F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "ReadyMethods/StringMethods\StringMethods.csproj", "{881DA8C7-745F-427D-AA3C-DD976284388F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "DateTimeAndMath\DateTimeAndMath.csproj", "{9E9424A7-ADAD-42CD-81A6-C1487F9FFF04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeAndMath", "ReadyMethods/DateTimeAndMath\DateTimeAndMath.csproj", "{9E9424A7-ADAD-42CD-81A6-C1487F9FFF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionsAndList", "GenericCollectionsAndList\GenericCollectionsAndList.csproj", "{307D2DDE-3BB2-49B5-98D6-E6264584B4A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollectionsAndList", "Collections/GenericCollectionsAndList\GenericCollectionsAndList.csproj", "{307D2DDE-3BB2-49B5-98D6-E6264584B4A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{73EFAF50-576B-4E95-AAB8-34A123C2CEBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "Collections/ArrayList\ArrayList.csproj", "{73EFAF50-576B-4E95-AAB8-34A123C2CEBD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collections", "Collections", "{EE75BB3B-0828-4FF8-BD7F-1930CD36BE12}"
 EndProject
