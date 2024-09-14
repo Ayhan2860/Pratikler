@@ -65,6 +65,11 @@
 
     * [Enum Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/ClassConcept/EnumDeclaration)
 
+* OOP(Object Orientented Programming)
+    * [Inheritance Declaration](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/InheritanceDeclaration)
+
+    * [Polymorphism And Sealed Class](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/PolymorphismAndSealedClass)
+
 </details>
 
 <details> 
