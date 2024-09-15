@@ -70,6 +70,12 @@
 
     * [Polymorphism And Sealed Class](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/PolymorphismAndSealedClass)
 
+    * [Interfaces](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/Interfaces)
+
+    * [Interfaces Example](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/InterfacesExample)
+
+    * [Abstract Example](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/OOP/AbstractExample)
+
 </details>
 
 <details> 
