@@ -86,6 +86,8 @@
     
     *  [Homework 2 - Collections Questions](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Homework/Collections "Got to homework")  
 
+    *  [Homework 3 - Proje-1 Telephone Directory](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharp-101/Homework/TelePhoneDirectory "Got to homework")  
+
 ---
 
 </details>
