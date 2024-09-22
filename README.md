@@ -105,6 +105,16 @@
 
 
 <details>
+<summary> C# Projects</summary>
+
+* Easy Level
+    * [Average Calculation](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/AverageCalculation "Go to project")
+
+    * [Drawing Triangle](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/TriangleDrawing "Go to project")
+
+</details>
+
+<details>
 <summary>Acknowledgements</summary>
 
 * Instructors

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EasyLevel", "EasyLevel", "{23FA07B0-1E03-444D-8B03-7AA91B2A2A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCalculation", "EasyLevel\AverageCalculation\AverageCalculation.csproj", "{B781934C-62D7-4946-B345-58E6B3DE1F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleDrawing", "EasyLevel\TriangleDrawing\TriangleDrawing.csproj", "{424EE9A2-9B70-48E8-9749-3243FD797F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B781934C-62D7-4946-B345-58E6B3DE1F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B781934C-62D7-4946-B345-58E6B3DE1F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B781934C-62D7-4946-B345-58E6B3DE1F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B781934C-62D7-4946-B345-58E6B3DE1F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424EE9A2-9B70-48E8-9749-3243FD797F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424EE9A2-9B70-48E8-9749-3243FD797F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424EE9A2-9B70-48E8-9749-3243FD797F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424EE9A2-9B70-48E8-9749-3243FD797F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B781934C-62D7-4946-B345-58E6B3DE1F98} = {23FA07B0-1E03-444D-8B03-7AA91B2A2A15}
+		{424EE9A2-9B70-48E8-9749-3243FD797F5E} = {23FA07B0-1E03-444D-8B03-7AA91B2A2A15}
+	EndGlobalSection
+EndGlobal
