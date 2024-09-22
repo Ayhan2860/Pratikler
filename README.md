@@ -112,6 +112,12 @@
 
     * [Drawing Triangle](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/TriangleDrawing "Go to project")
 
+    * [Drawing Circle](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/CircleDrawing "Go to project")
+
+    * [Extract and Print](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/ExtractAndPrint "Go to project")
+
+    * [Reverse Character Printing](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/CharacterReversePrint "Go to project")
+
 </details>
 
 <details>
