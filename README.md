@@ -123,6 +123,12 @@
 
     * [Integer Sum Of Binaries](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/IntegerSumOfBinaries "Go to project")
 
+    * [Absolute Squaring](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/AbsoluteSquaring "Go to project")
+
+    * [Character Change](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/CharacterChange "Go to project")
+
+    * [Consonant Letter](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/ConsonantLetter "Go to project")
+
 </details>
 
 <details>
