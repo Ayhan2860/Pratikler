@@ -117,6 +117,11 @@
     * [Extract and Print](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/ExtractAndPrint "Go to project")
 
     * [Reverse Character Printing](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/EasyLevel/CharacterReversePrint "Go to project")
+* Intermediate Level
+
+    * [Reverse Character Printing](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/AreaCalculation "Go to project")
+
+    * [Integer Sum Of Binaries](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/IntegerSumOfBinaries "Go to project")
 
 </details>
 
