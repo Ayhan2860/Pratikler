@@ -129,6 +129,9 @@
 
     * [Consonant Letter](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/IntermediateLevel/ConsonantLetter "Go to project")
 
+* Hard Level
+    * [Voting Application](https://github.com/ayhan-karaman/Beginner-Level-.Net-Core-Path/tree/main/CSharpProjects/HardLevel/VotingApp "Go to project")
+
 </details>
 
 <details>
