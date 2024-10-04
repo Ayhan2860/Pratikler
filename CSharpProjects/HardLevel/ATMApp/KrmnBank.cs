@@ -1,6 +1,7 @@
 
 using ATMApp.Entities;
 using ATMApp.Repositories;
+using ATMApp.Services;
 using ATMApp.Utilities;
 
 namespace ATMApp
@@ -12,11 +13,13 @@ namespace ATMApp
         private static decimal transaction_amount;
         private static decimal minKeptAmount = 20;
         private readonly IBankCardRepository _bankCardRepository;
+        private readonly ILoggerService _loggerService;
         private static BankCard? bankCard;
 
-        public KrmnBank(IBankCardRepository bankCardRepository)
+        public KrmnBank(IBankCardRepository bankCardRepository, ILoggerService loggerService)
         {
             _bankCardRepository = bankCardRepository;
+            _loggerService = loggerService;
         }
 
         public void Execute(string[] args)
@@ -96,6 +99,7 @@ namespace ATMApp
                     bankCard.Balance -= transaction_amount;
                     _bankCardRepository.Update(bankCard);
                     _bankCardRepository.Update(transferAccount);
+                    _loggerService.Write($"{bankCard.CardNumber} numaralı karttan {transferAccount.CardNumber} numaralı karta {transaction_amount} tutarında para transferi");
                     InputFunc.WriteMessage($"Para çekme işleminiz başarılı bir şekilde gerçekleşti.", true);
                 }
             }
@@ -121,6 +125,7 @@ namespace ATMApp
             {
                 bankCard.Balance = bankCard.Balance - transaction_amount;
                 _bankCardRepository.Update(bankCard);
+                _loggerService.Write($"Hesapdan {transaction_amount} tutarında para çekme");
                 InputFunc.WriteMessage($"Para çekme işleminiz başarılı bir şekilde gerçekleşti.", true);
             }
         }
@@ -141,12 +146,14 @@ namespace ATMApp
             {
                 bankCard.Balance += transaction_amount;
                 _bankCardRepository.Update(bankCard);
+                _loggerService.Write($"Hesaba {transaction_amount} tutarında para ekleme");
                 InputFunc.WriteMessage("İşleminiz başarıyla tamamlandı", true);
             }
         }
 
         private void CheckBalance(BankCard bankCard)
         {
+            _loggerService.Write("Bakiye sorgulaması");
             InputFunc.WriteMessage($"Bakiye Tutarınız: {bankCard.Balance}", true);
         }
 
@@ -171,7 +178,9 @@ namespace ATMApp
                     if (bankCard.PinCode.Equals(pinCode))
                     {
                         if (bankCard.IsLocked)
+                        {    
                             LockAccount();
+                        }
                         else
                             pass = true;
                     }
@@ -188,6 +197,7 @@ namespace ATMApp
                 }
                 else
                     InputFunc.WriteMessage("Kart numaranızı veya Şifrinizi Geçersiz", false);
+                    _loggerService.Write("Belirsiz kişi ve şifre ile giriş denemesi");
                 Console.Clear();
 
             }
@@ -199,6 +209,11 @@ namespace ATMApp
             InputFunc.WriteMessage("Hesabınız bloke olmuştur", true);
             Console.WriteLine("Hesabınızın blokesini kaldırmak için lütfen en yakın şubemize başvuruda bulunun.");
             Console.WriteLine("Bankamıza kullandığınız için teşekkür eder sağlıklı günler dileriz ..");
+            if(tries >0 )
+                 _loggerService.Write("Blokelenmiş hesaba giriş denemesi");
+             else
+                 _loggerService.Write("Hesab an itibariyle 3 yanlış şifre denemesiyle blokelenmiştir ");
+            
             Console.ReadKey();
             Environment.Exit(1);
         }

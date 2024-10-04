@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ATMApp;
 using ATMApp.Repositories;
+using ATMApp.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -25,7 +26,7 @@ IHostBuilder CreateHostBuilder(string[] strings)
     .ConfigureServices((_, services) =>
     {
         services.AddScoped<IBankCardRepository, BankCardRepository>();
-
+        services.AddScoped<ILoggerService, FileLoggerService>();
         services.AddSingleton<KrmnBank>();
     });
 }

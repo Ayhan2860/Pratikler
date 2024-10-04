@@ -29,6 +29,8 @@ namespace ATMApp.Utilities
             }
             Console.WriteLine(topBottomDraw);
         }
+        
+        
         public static void MenuScreen(string userName="")
         {
             string topBottomDraw = " ".PadRight(32, '-');
